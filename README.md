@@ -1,7 +1,7 @@
 ### 来自甬哥项目https://gitlab.com/rwkgyg/
 
 ### 使用Github进行代码托管并连接heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)]（https://dashboard.heroku.com/new?template=https://github.com/fanelywend/gotohrk.git）
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/fanelywend/gotohrk.git)
 
 ### workers反代与pages反代及自定义域，配置文件信息等相关操作拓展教程，请关注：[博客视频教程](https://ygkkk.blogspot.com/2022/05/heroku-cloudflare-workers-pages.html)
 
